@@ -12,5 +12,15 @@ namespace _111_1MIDDEMO1 {
         protected void Page_Load(object sender, EventArgs e) {
 
         }
+
+        protected void btn_Submit_Click1(object sender, EventArgs e)
+        {
+
+        }
+
+        protected void tb_Account_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
