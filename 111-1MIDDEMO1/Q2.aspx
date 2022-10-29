@@ -15,8 +15,8 @@
             <asp:TextBox ID="tb_Num" runat="server" AutoPostBack="True"></asp:TextBox><br />
             聯絡方式：
             <asp:RadioButtonList ID="rbl_Phone" runat="server" RepeatDirection="Horizontal" RepeatLayout="Flow" AutoPostBack="True">
-                <asp:ListItem Text="手機" Selected="True"></asp:ListItem>
-                <asp:ListItem Text="市話"></asp:ListItem>
+            <asp:ListItem Text="手機" Selected="True"></asp:ListItem>
+            <asp:ListItem Text="市話"></asp:ListItem>
             </asp:RadioButtonList>
             <asp:TextBox ID="txt_Phone" runat="server"></asp:TextBox><br /><br />
             縣市與區域：
